@@ -1,0 +1,95 @@
+.list_icon{
+    text-align: center;
+    color:#7a7a7a;
+    padding-top:0.7rem !important;
+}
+.youtube_logo{
+    width:6.7rem;
+}
+.nav-bar{
+    vertical-align: middle;
+    padding-top:0.7rem;
+    padding-bottom:0.7rem;
+    height:56px;
+    background-color:white !important;
+}
+.search-form input{
+    float:none;
+    /*margin-left:12.9rem;*/
+    height:75% !important; 
+    width:30rem !important;
+}
+.search-form button{
+    float:none;
+    height:75% !important; 
+    width:130%;
+    text-align:center;
+    vertical-align:top;
+    background-color:#f8f8f8 !important;
+}
+.search{
+    border-radius: 0px !important;
+    padding-top:0.7rem;
+}
+.search-container{
+    position: relative;
+    align-items: center;
+    height:40% !important; 
+}
+.search-form, .icon{
+    padding-top:0.5rem;
+}
+.inline{
+    display:inline;
+}
+.icon{
+    margin-right:30px;
+    color:#7a7a7a;
+}
+.first{
+     padding-left:100px;   
+}
+
+.left {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 240px;
+    background-color: rgba(200, 200, 200, 0.1);
+    position: fixed;
+    top: 63px;
+    height: 100%;
+}
+
+.left:hover{
+    overflow: scroll;
+}
+
+.left li a {
+    display: block;
+    text-decoration: none;
+    color:rgb(10, 10, 10);
+    font-family: Roboto, Noto, sans-serif;
+    font-size: 14px;
+    padding: 8px 24px;
+    font-weight: lighter;
+}
+.left li a i{
+    color: #7a7a7a;
+}
+.lefthome{
+    color: red !important;
+}
+.left li a:hover {
+    background-color: rgba(17, 17, 17, 0.1);
+}
+.main{
+    margin-left: 240px;
+    padding: 0 30px;
+    background-color:#fafafa;
+}
+
+.card img{
+    width: 18rem;
+    height: 200px;
+}
